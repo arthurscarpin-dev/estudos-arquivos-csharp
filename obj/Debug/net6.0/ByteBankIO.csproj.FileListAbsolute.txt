@@ -1,0 +1,14 @@
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+C:\C Sharp\CsharpArquivos-main\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
